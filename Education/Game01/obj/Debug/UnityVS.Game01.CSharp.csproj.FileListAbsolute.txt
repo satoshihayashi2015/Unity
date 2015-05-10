@@ -1,0 +1,7 @@
+C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\obj\Debug\UnityVS.Game01.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\obj\Debug\Assembly-CSharp.dll
+C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\obj\Debug\Assembly-CSharp.pdb

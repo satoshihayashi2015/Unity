@@ -1,8 +1,24 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Cell.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Cell.cs" Line="87" Column="5" />
+      <File FileName="Assets\Scripts\Manager.cs" Line="67" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="106" />
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="125" />
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="144" />
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="164" />
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="184" />
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="204" />
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="224" />
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="231" />
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="55" />
+      <Breakpoint file="C:\Users\satoshi\Documents\GitHub\Unity\Education\Game01\Assets\Scripts\Cell.cs" line="87" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
